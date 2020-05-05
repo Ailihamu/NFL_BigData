@@ -33,7 +33,7 @@ I used both markdown cells and # in the code to help walk through the processes 
 
 ## Results<a name="results"></a>
 
-Please see the main findings of this project at the post available [here]
+Please see the main findings of this project at the post available [here]https://medium.com/@elham.abdurusol/visualising-relationships-in-sports-data-findings-from-nfl-big-data-daf301d5f867?sk=f52ca71ce2213679b17fc80bc98459db
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
