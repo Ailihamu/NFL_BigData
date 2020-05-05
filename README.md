@@ -14,7 +14,7 @@ Python 3* were used in creating this project. There's no need to install librari
 
 In this project, I used data from the NFL_BigData competition on kaggle.com, and I was mainly interested in exploring and answering following questions:
 
-1. How the the number of plays and the yards gained per play differ in terms of the different quarters during a game? And what relations they have with each others?
+1. How the number of plays and the yards gained per play differ in terms of the different quarters during a game? And what relations they have with each others?
 2. What are the most frequently used offense formations by NFL teams, and whether/how it would affect the yards covered in a play?
 3. Whether/how would the number of defenders in the box affect the yards covered in a play and the actual distance that run by the rusher after a handoff?
 4. Whether/how well can we predict yards covered in a play by using the given features in the data? 
