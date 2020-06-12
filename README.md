@@ -8,7 +8,7 @@
 
 ## Installation <a name="installation"></a>
 
-Python 3* were used in creating this project. There's no need to install libraries for running the code in this project beyond the Anaconda distribution of Python. 
+Python 3* were used in creating this project. I have installed a python package called “Football_Pitch” which I created and uploaded to PyPi for drawing a football pitch. There's no need to install libraries for running the code in this project beyond the Anaconda distribution of Python. 
 
 ## Project Motivation<a name="motivation"></a>
 
